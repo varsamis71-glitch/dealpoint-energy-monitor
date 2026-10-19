@@ -1,0 +1,68 @@
+name: Daily energy monitor
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - monitor.py
+      - providers.json
+      - requirements.txt
+      - .github/workflows/daily.yml
+  schedule:
+    - cron: '37 8 * * *'
+      timezone: Europe/Athens
+permissions:
+  contents: write
+concurrency:
+  group: energy-monitor
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test extraction logic
+        run: python -m unittest -v
+      - name: Install browser
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Restore previous state
+        run: |
+          mkdir -p output
+          if git fetch origin monitor-data; then
+            git show FETCH_HEAD:state.json > output/state.json
+          fi
+      - name: Collect official sources
+        id: collect
+        continue-on-error: true
+        run: python monitor.py
+      - name: Upload daily results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: energy-report-${{ github.run_id }}
+          path: output/
+          retention-days: 90
+          if-no-files-found: error
+      - name: Preserve state in separate branch
+        if: always()
+        run: |
+          if [ ! -f output/state.json ]; then exit 1; fi
+          cp output/state.json "$RUNNER_TEMP/energy-state.json"
+          git checkout --orphan next-monitor-data
+          git rm -rf .
+          git clean -fdx
+          cp "$RUNNER_TEMP/energy-state.json" state.json
+          git config user.name 'energy-monitor[bot]'
+          git config user.email 'energy-monitor@users.noreply.github.com'
+          git add state.json
+          git commit -m 'Save latest successful source fingerprints'
+          git push origin HEAD:monitor-data --force
+      - name: Flag collection failure
+        if: steps.collect.outcome == 'failure'
+        run: exit 1

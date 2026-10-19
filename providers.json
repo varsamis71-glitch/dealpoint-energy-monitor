@@ -1,0 +1,13 @@
+{
+  "max_pages_per_provider": 45,
+  "providers": [
+    {"name": "ΔΕΗ", "root": "https://www.dei.gr/", "seeds": ["https://www.dei.gr/"]},
+    {"name": "Ζενίθ", "root": "https://zenith.gr/", "seeds": ["https://zenith.gr/el/for-the-home/", "https://zenith.gr/"]},
+    {"name": "Protergia", "root": "https://www.protergia.gr/"},
+    {"name": "Φυσικό Αέριο", "root": "https://fysikoaerioellados.gr/", "seeds": ["https://fysikoaerioellados.gr/el/home/revma", "https://fysikoaerioellados.gr/el/home/fysiko-aerio", "https://fysikoaerioellados.gr/el/business/revma", "https://fysikoaerioellados.gr/el"]},
+    {"name": "nrg", "root": "https://www.nrg.gr/", "seeds": ["https://www.nrg.gr/el"]},
+    {"name": "Enerwave", "root": "https://www.enerwave.gr/", "seeds": ["https://www.enerwave.gr/el/"]},
+    {"name": "ΗΡΩΝ", "root": "https://heron.gr/"},
+    {"name": "Volton", "root": "https://volton.gr/"}
+  ]
+}
