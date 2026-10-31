@@ -1,0 +1,652 @@
+{
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/fysiko-aerio/": {
+    "hash": "b3237c2bddfd7c6e8f25978fec82c65b34cb9e526abee206227d881f681b5f9a",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φυσικό αέριο για την επιχείρησή σου"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/koinoxrista/fysiko-aerio/": {
+    "hash": "f16a6ea183751e93220678c061b25682bed1730fc1e43c1ea26df5e3c3e8615a",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φυσικό αέριο για την πολυκατοικία"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-plan/": {
+    "hash": "4dcf8e2c0560bde05d3d6d67273ffe32baa2fac19446e85e608d9f4d27032a11",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Σταθερά, της οικογένειας"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-maxima/": {
+    "hash": "9d6bb8933f47048583c1eb28df28026c525ee2a956e88c537cc6a9641fa4a70e",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Σταθερά στις μεγάλες ανάγκες, με μεγάλα προνόμια"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-4all-onerate/": {
+    "hash": "54014099f171e25f478d91ad1b517647c516e13a2cfc6b03351996ae7fc6e8f0",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Η κατανάλωσή σας αποκτά ενιαία τιμή χρέωσης"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-4students/": {
+    "hash": "6089a99f8d81b9e2539e9a8584c3e638af24ac1c930971c52d6d8f636c4ae772",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Ενέργεια για να είσαι μέσα σε όλα"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-entertwo/": {
+    "hash": "c55d371588f545764f1d26f0a833abca6dba1e938370b952cdbee855dfb16d35",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Σταθερά σταθερό και διζωνικό"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-dynamic/": {
+    "hash": "c5b3cd71f69da60d456b287d2d2611f2bcd311beac15cf40d95eab0424e8464e",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Έξυπνη κατανάλωση ρεύματος στο σπίτι με το νέο δυναμικό προϊόν"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-enter/": {
+    "hash": "bcc913964fa46bc731aae74e329812122c72920c7f83e5c35cad220120bab357",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Σταθερές χρεώσεις προμήθειας χωρίς εκπλήξεις στις τιμές"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-4all/": {
+    "hash": "261b782fcca2fcccca426b8c164aef47ce912883c5941dbf60cbcf6b26a91ae9",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Ηλεκτρική ενέργεια για το σπίτι"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/myhome-online/": {
+    "hash": "65235b1ebe4a8ecda0b68ab588f2da98c884aff3af53a994c89b9a23b28bdbd4",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myHome Online | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/greenpass/": {
+    "hash": "956dfab2af92a0b4a81b668e10fdc7cf77c9af566c53e7022f81919536a1812c",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Κάνε σήμερα το ρεύμα στο σπίτι σου πράσινο!"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/bluepass/": {
+    "hash": "4fa03258697878b682ce3217034445750a408a834ed5016214a8cc6452b5429f",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φόρτισε το αυτοκίνητό σου παντού και απολαύσε μοναδικά προνόμια"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/revma/pistopoiitiko-yde-electricianpass/": {
+    "hash": "061aa6c9e7f1a01fb264faf07e76076d870e6d0fb6b38639fea61b6bf5e7a739",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Υπεύθυνη Δήλωση Εγκαταστάτη με ολοκληρωμένη υποστήριξη"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/fysiko-aerio/myhome-gascontrol/": {
+    "hash": "b65b4f2492d31af6d546c939d59d9abf133c3a3f8d446a9faea1631d0c96e78d",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myHome GasControl | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-to-spiti/fysiko-aerio/myhome-gasbenefit/": {
+    "hash": "d1bc5869bd56ebd89724691b6dca2fb271bad05a87af44e31e29b57e7b14af3c",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myHome GasBenefit | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/greenpasspro/": {
+    "hash": "aa797eee948be7d1a751b2485809174873330d080ed84c19c94133218a4f6f4a",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "GreenPassPro | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/pistopoiitiko-yde-electricianpasspro/": {
+    "hash": "03465cf86dfb84d1027a5a5dd651cba9a7e228479963b7e0ac38bce16d4516bf",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Υπεύθυνη Δήλωση Εγκαταστάτη με ολοκληρωμένη υποστήριξη"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/epaggelmaties-epixeiriseis/mybusiness-4all/": {
+    "hash": "b8d4abe6a5241e2a86bfd5243e44d5e4808dc58e8171e880f1c81b40c617944d",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Προϊόν ηλεκτρικής ενέργειας με εξειδικευμένη εξυπηρέτηση και προνόμια"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/epaggelmaties-epixeiriseis/mybusiness-4allplus/": {
+    "hash": "2d0faadefbf0b96c5a6ff1bbe51c132b0d584875b9c64c126a4d2c1f8ca4216b",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Προϊόν ηλεκτρικής ενέργειας με εξειδικευμένη εξυπηρέτηση και προνόμια"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/epaggelmaties-epixeiriseis/mybusiness-horeca/": {
+    "hash": "50d8e2ce88c4ca1577eda2585907be84fe83ecce9f721b493b77917c8b81abea",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φτηνότερο ρεύμα για επιχειρήσεις φιλοξενίας και εστίασης | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/epaggelmaties-epixeiriseis/mybusiness-enter/": {
+    "hash": "a4c5185ac467060e24410a43ee04ae8029b98a51ae1ba76d2587a25e1d1faac4",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myBusiness Enter | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/epaggelmaties-epixeiriseis/mybusiness-dynamic/": {
+    "hash": "33bfde0e0b0745e5b42fb3c703d75a244ab0d0f07097902a6e040c8015cad27b",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Έξυπνη κατανάλωση ρεύματος στην επιχείρηση με το νέο δυναμικό προϊόν"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/revma/eidikes-katigories/agrotika-timologia-gaia/": {
+    "hash": "5939a6deda88eb6fca659eaaa9d907f3b5e607bee888d2bfcba935955a20552a",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Αγροτικά ΓΑΙΑ | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/gia-tin-epixeirisi/fysiko-aerio/mybusiness-gasbenefit/": {
+    "hash": "481296e5818b64aeed7dba314f25fa748b31e825e5238b9bd222e084947c0aab",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myBusiness GasBenefit | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/koinoxrista/fysiko-aerio/mybuilding-gasbenefit/": {
+    "hash": "dc8e93b913b31f89ee3e7fac0c23c5bc92bd676f7ef44ef023318ac947f37ea3",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myBuilding GasBenefit | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/el/koinoxrista/fysiko-aerio/mybuilding-gascontrol/": {
+    "hash": "812b7d252a0d5ff5b6239603e3f2acac28a35b5c7578af44e39bda295b63b9f6",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "ΔΕΗ myBuilding GasControl | ΔΕΗ"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/": {
+    "hash": "82d5b1faaab954c201eadc7a2cae8ee2b146cb1a4ae23f3418b939f03db0aa19",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "A new era in energy supply"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/business/electricity/": {
+    "hash": "88eeeae21c82caea2e4c77530e5bcf4c7a07405b3eff84bb4833be130a111ad6",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "A new era in energy supply"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/business/natural-gas/": {
+    "hash": "dbcceb5d7b2afd266c1ae2e581b8789b4c97c0ddd92936536938c5c6268cb4e3",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Natural Gas for your business"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/shared-areas/natural-gas/": {
+    "hash": "b0f8f6c2864b0adff047a38e5641f408f95546ec876e232eda11e431dae14843",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Natural Gas for blocks of flats"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-plan/": {
+    "hash": "0a3d43690cdc185075193305a76c9e783e4afde7d641bc171ee9942ebd8a2f0f",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "The reliable solution for the family's daily energy needs"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-maxima/": {
+    "hash": "c5b3fda908edaf726d85dc2650cfa3af17753a2d48f5f92d0e44d0f50212ccf9",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Fixed energy charges for high consumption needs"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-4all-onerate/": {
+    "hash": "25b34ffcee461ab857eb27e01c56490391eedf25c51f377d935af2d45e017c74",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Single energy rating for your electricity consumption"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-4students/": {
+    "hash": "f484e10e04c4eeefdcee21d08e8888ef3ccf2cac80fee6a841902fe9bfb2caa2",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Empowering student life"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-entertwo/": {
+    "hash": "51adfa0c59bbf11725ad8c4977383f00d37aca71ed0daeb5258b5b37a8ea7fdc",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Steadily fixed and dual rate"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-dynamic/": {
+    "hash": "c0d5cfa18e266c0e6f27a996d286d01147f96e2fe1a6f17a3f2f776a3a14a630",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Smart power consumption at home with the new dynamic electricity product"
+  },
+  "ΔΕΗ|https://www.dei.gr/en/home/electricity/myhome-enter/": {
+    "hash": "e419f4c6a99c50f0f65cc31240f2ef109a171316edcee895e6be91c1b09790d2",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "PPC myHome Enter | PPC"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-value-balance-12m/": {
+    "hash": "53c91eac09ddddbdf3f09713f0d40403cae2492224c269e61fda482db0fe6859",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Οικιακό Value Balance 12M"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-value-sure-12m-40/": {
+    "hash": "46dec026cabece79b767aadaac3b20b3f0cee58a1c55d26e4f5c26a54c72aa09",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Οικιακό Value Sure 12M 4.0"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-value-bright-20/": {
+    "hash": "6709b0d8705630169d4b1eac364063b377d775f1b8f4ff8f97e7dce10ba8d0e1",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Οικιακό Value Bright 2.0"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-dynamic-one/": {
+    "hash": "6c210bd770a347c901e9363e8d4655b39735b8e530797b36288b205ad812b92a",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Dynamic One Home"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-value-standard-2-0/": {
+    "hash": "b466f05dd49888c47df4cbdd7a110e6f34f8fdc8fa23e1ab1472d894b3c9fce4",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Οικιακό Value Standard 2.0"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-value-lite-2-0/": {
+    "hash": "a60f1a7c75106dfc151ead47f4bfdd22cd1ffc3585230e458be55e141fb61376",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Value Lite 2.0"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/protergia-oikiako-value-special/": {
+    "hash": "23df836c9ce39a41fe94b82babf30eb8234283c362a41f4a42a824bbf9ab1e43",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Οικιακό Ρεύμα Value Special"
+  },
+  "Protergia|https://www.protergia.gr/el/pricesres/": {
+    "hash": "eaca11d5da27cbb53a52773973912d156631eecf4a36aef9f030a802b8eff44c",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Χρεώσεις Οικιακών Τιμολογίων Ηλεκτρικής Ενέργειας"
+  },
+  "Protergia|https://www.protergia.gr/spiti/fysiko-aerio-gia-spiti/fysiko-aerio-value-gas-sure-20/": {
+    "hash": "0dec08c60afba6b256f5b6e95a2b20e041561fff5a50865277a6464d55afd6b3",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φυσικό Αέριο για Σπίτι Value Gas Sure 2.0"
+  },
+  "Protergia|https://www.protergia.gr/spiti/fysiko-aerio-gia-spiti/oikiako-autonomo-value-gas-flex/": {
+    "hash": "242fc3e1de91f2446ca814c6564800a59b4acae89b61ec05c8a998ff19a81719",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Αυτόνομο Value Gas Flex"
+  },
+  "Protergia|https://www.protergia.gr/spiti/fysiko-aerio-gia-spiti/oikiako-koinoxristo-value-gas-flex/": {
+    "hash": "8e922542882154d8fa8d40115ae539197ca9100a8e84268aa204ffa0ba7a1534",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Κοινόχρηστο Value Gas Flex"
+  },
+  "Protergia|https://www.protergia.gr/spiti/fysiko-aerio-gia-spiti/oikiako-autonomo-value-gas-standard/": {
+    "hash": "e0029ce00d621208921632546216a909836ba42ac6b257427bc16b6e5a2b8087",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Αυτόνομο Value Gas Standard"
+  },
+  "Protergia|https://www.protergia.gr/spiti/fysiko-aerio-gia-spiti/oikiako-koinoxristo-value-gas-standard/": {
+    "hash": "66ccaf5f11d9bf61bd166c36afaecb98d4f063e4a552d7ae2cd05e5bb9cfbd2a",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Κοινόχρηστο Value Gas Standard"
+  },
+  "Protergia|https://www.protergia.gr/spiti/energeiakes-luseis/home-chargers/": {
+    "hash": "92a33204ed0655bcf2c0e0000e960ae3e58fc3a505d85c750d905fe6b0cce954",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Home Chargers"
+  },
+  "Protergia|https://www.protergia.gr/spiti/energeiakes-luseis/protergia-oikiako-helios-value/": {
+    "hash": "4abc0da0ed09c2c0953bf7cc6726f6f517b0469e5c52407766b639a2ed002643",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φωτοβολταϊκά στη Στέγη"
+  },
+  "Protergia|https://www.protergia.gr/spiti/energeiakes-luseis/home-care-247/": {
+    "hash": "ac359e30a13b4fdf0c06dc11bd06649af1fef0f0a6b0522a6d7e4f8f2f17f1b0",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Home Care"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-value-balance-12m/": {
+    "hash": "dd100a4857f52e03e4bb3d5da10d71751b46f7d9828f383f6ddff5d7a0a1c9e0",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό Ρεύμα Value Balance 12M"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-1-value-standard-2-0/": {
+    "hash": "44b543270f7608959684ed1bca9450b4a4d13b9c8c5a806355c5e50022bb569c",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό 1 Value Standard 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-1-value-simple-2-0/": {
+    "hash": "e9e4905046f9dc1e1abe01d763a7d7fb05f26fd7b71d0a2a600a985d40c20782",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό 1 Value Simple 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-1-value-seasonal-2026/": {
+    "hash": "7d1d4acaec1f6d511dc4af66a1afec6b56a6c8be77a94ab2e00fa74537f03afe",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό 1 Value Seasonal"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-1-value-special/": {
+    "hash": "dbfadaa8991edf5b41393e28639d80099d5a80e50d278373aecd82b486abb261",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia επαγγελματικό Ρεύμα 1 Value Special"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-value-power-2-0/": {
+    "hash": "de897db0884a5756e46cbbd200c2555c74c7982bc397aeb92ae91a894b842243",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό Ρεύμα Value Power 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-2-value-standard-2-0/": {
+    "hash": "fa7a3b0d48de2bb94cbd6128f12c3fab724cacfdbaacbc8d58fb2d10fb424ef0",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό 2 Value Standard 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-2-value-simple-2-0/": {
+    "hash": "827a74dbdb3df2e635f793c79451b346a3e30b84d5cf84230e0dd7db3450e12b",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia επαγγελματικό Ρεύμα 2 Value Simple 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-2-value-special/": {
+    "hash": "4149ce6e492830400e33b56d48d9b0a87bd49eee4eb4d3dce6eee59b73b12b77",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia επαγγελματικό Ρεύμα 2 Value Special"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-3-value-sure-12m-20/": {
+    "hash": "5b9f936cc5522f06cecb3c138bc32231fd04568b67751632e292084d9281ebf5",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό Ρεύμα 3 Value Sure 12M 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-3-value-standard-2-0/": {
+    "hash": "77a412c02097a1d1730647e8b938718638700b24227eb24d65c4ff1f3723e292",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό 3 Value Standard 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-3-value-simple-2-0/": {
+    "hash": "c9ec67b1ca2bb3373d252a4f924fdf12949c2ed30944adae61c188b65463209e",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia επαγγελματικό Ρεύμα 3 Value Simple 2.0"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/protergia-epaggelmatiko-3-value-special/": {
+    "hash": "994269d9450413ad5ffbe7e3aa1ad7b4a3e05f31c8f008e37aac303a4e2bcb03",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia επαγγελματικό Ρεύμα 3 Value Special"
+  },
+  "Protergia|https://www.protergia.gr/el/pricesbus/": {
+    "hash": "cb3ac2f266c882f8f17a741c6b98235d801febbeb11e3c02916b220b8c6a1cbe",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Χρεώσεις Επαγγελματικών Τιμολογίων Ηλεκτρικής Ενέργειας"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-fysiko-aerio/epaggelmatiko-value-gas-flex/": {
+    "hash": "45c05ee0a21f413f0f0bbfa3a5623c027a6461f0c98224fdb14d166fdd979d82",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό Value Gas Flex"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-fysiko-aerio/epaggelmatiko-value-gas-standard/": {
+    "hash": "c38f2dcebe6d1edae913b9c03ec19069c651a6af63c9f5d3edd7fb6645b32641",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Επαγγελματικό Value Gas Standard"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/energeiakes-luseis/business-care/": {
+    "hash": "ca6efd93cf575b9aaab49393792f682271a645710e17a6dfcc5f09b2777fa4a9",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Υπηρεσία Business Care"
+  },
+  "Protergia|https://www.protergia.gr/megales-epixeirhseis/times-anaforas-dynamikou-timologiou/": {
+    "hash": "c1ceb31daac48f47cb7409d7ded6b69312878c8892ab105f95a3b66082842dcb",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Δυναμικές Τιμές"
+  },
+  "Protergia|https://www.protergia.gr/spiti/revma-kai-fysiko-aerio/power-plus-gas/": {
+    "hash": "5cd76a34affbd208852fdbaf66179b3a3234e9eaac2c6de19f579290368f1497",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Φυσικό Αέριο & Ρεύμα Power + Gas"
+  },
+  "Protergia|https://www.protergia.gr/eksuphrethsh-pelatwn/xrhsima-entypa-gia-to-fysiko-aerio/": {
+    "hash": "65bc53f9385fa1ac5a96f4a6d326aa25fc94400cca689ceb234ccf7552975a79",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Χρήσιμα Έντυπα για τo Φυσικό Αέριο"
+  },
+  "Protergia|https://www.protergia.gr/en/home/electric-energy/protergia-value-balance-12m/": {
+    "hash": "9c8dbf8cc45b6919320c87e7612ada0728958909234b8d6339f67ce72f205ca5",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Value Balance 12M"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/": {
+    "hash": "131b58593381011949c55f3f34d3563b5a693db602e4badcb973b3b54624633d",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Ρεύμα - Προϊόντα"
+  },
+  "Protergia|https://www.protergia.gr/epixeirhsh/epaggelmatiko-reuma/ypologismos-rythmizomenon-xreoseon/": {
+    "hash": "8137a518b6c9a2fc2c5e3a3e2a86b0eed62128ec71a3e5d3fd3eb2040a1469a7",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Υπολογισμός ρυθμιζόμενων χρεώσεων ηλεκτρικής ενέργειας - Επιχειρήσεις"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma": {
+    "hash": "792cf32d5a3fe0b764fd7cca9229389ecbecf965a2adcba758ef811adff6b328",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακά προγράμματα"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/fysiko-aerio": {
+    "hash": "bddc95b435c7970d869ae39ac3e4a80779ce2efddb4b468ca9911f2ac834aef3",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακά προγράμματα"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma": {
+    "hash": "d70a63df12fce124784e87eae7e932cf6eaeb60c287318ec7c50e0e21c7fbe1b",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Επαγγελματικά προγράμματα"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/maxi-business-1": {
+    "hash": "4620e4238028938e552b3b39b4db73a4aeddb4516417b00d38b5b55b1d0f1eec",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Business 1"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma/maxi-home-energy-reward": {
+    "hash": "61dda88e0326f78a3b45c55907c413dbd07713df025ce907e481273a838f031c",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Home Energy Reward"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma/maxi-home-safe": {
+    "hash": "ca1c4f48e528b8fed4e6a3e7eff6f0af504c6d0ad645320ca6283fb60acca0ec",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI HOME Safe"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma/maxi-home-200": {
+    "hash": "4f1597553aa17be328dd10e0bdf21862b39e561a5299c0fb8a6ee7d2b6d8f8e0",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI HOME 200"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma/maxi-home-10": {
+    "hash": "18c7d2fba5117787d8d466ef39fa37df2a363b5d99278e48552d020e5c604aba",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI HOME 10"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma/maxi-home": {
+    "hash": "0e8fc49f19c20ce7ae63fec3583e4b8904964762c4f1ae0a04dde1da800e8758",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI HOME"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/revma/oikiako": {
+    "hash": "83e7951f1a95dc2e94160d89470ee6322a2cd9d2988ff4da8c8df6bcdb6eb722",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/support/programma-ponton-ab-plus": {
+    "hash": "c197bcda1e99e858e345f1f70d2eebb0029acd83b94be8ef153ca7642c20b028",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Πρόγραμμα Πόντων ΑΒ Plus"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business": {
+    "hash": "25930c8a3eab559b9419610a3e2091fc7781bb46711670da68096474b56dc68e",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Επιχείρηση | Φυσικό Αέριο"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/rythmizomenes-hreoseis": {
+    "hash": "8d6c808accadb37897a7d61af89436fb8ec949d70a9c56e43ff1e312667efdf6",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Ρυθμιζόμενες Χρεώσεις & Λοιπές Χρεώσεις"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/hreoseis-promitheias-fysikoy-aerioy": {
+    "hash": "3d4f6a3661a81298291e89ec34db7ce796122dd36d6faa5bb3b8ee1af7283f5e",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Χρεώσεις Προμήθειας φυσικού αερίου"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/aerio/oikiako-plires-extra": {
+    "hash": "6b3a089596dd2e786fb1650f82cac972e668b0077eb2fc5682b3bad53f863856",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Πλήρες Extra"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/aerio/oikiako-plires": {
+    "hash": "efc5fa01a7d4279bcc6508b8e7e34b9305ce89bcae9b3e507e3bdbb98b74abb0",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Πλήρες"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/home/aerio/oikiako-koyzina": {
+    "hash": "b7c9a32880aea849aaa203dececfbe7e06ad24bfccbddb034db0092abcbb10dd",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Οικιακό Κουζίνα"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/fysiko-aerio": {
+    "hash": "ac31d2cc91356b7a12620e71ee1dd87c88b61c81fed44a064b7a5209aa46e875",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Επαγγελματικά προγράμματα"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/maxi-business-1-secure": {
+    "hash": "dc8bacb6551dbf9cf4e17d87cdfe289e2046ea8f9888abf6a158a5f9cddb4a17",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Business 1 Secure"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/maxi-business-247-fixed": {
+    "hash": "2726b091aeb12074d39682848545a661d88726b4dae187747d6abbf100b41a70",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Business 24/7 Fixed"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/maxi-business-1-save": {
+    "hash": "8d5d469e2af24e0d7a70ba180585b8e7850aad4adaab8b366924f51f6fb48a86",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Business 1 Save"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/maxi-business-2": {
+    "hash": "8c9f7042fbc44041656bda528f7e3a6cf5b3237d9fdbc0b027cecd2721280019",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Business 2"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/epaggelmatiko-1": {
+    "hash": "4dce44f95bb93c2214f33a0fea8e7304011615d64ee6c08beb6d7b3d07692a81",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Επαγγελματικό 1"
+  },
+  "nrg|https://www.nrg.gr/el/synergasia-nrg-nova": {
+    "hash": "423616685b66180fece432eee802ad616d94cfa68a4bbe083f89feb54630df4e",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/revma/eidiko-timologio-nrg": {
+    "hash": "0c1be874ec345ef57ebadc44938be132d7b9093ebf78b3feeeef01476409b899",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/aerio/nrg-prime-gas": {
+    "hash": "eb50dd9ac6601679f54a9bbfeaea463ad3884fc9e6bb560bddf392f97b864675",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/aerio/nrg-adapt-gas": {
+    "hash": "06aa199044fe5112ca80df09b3d22a1dfea3f27249385cbe76aa7d5acd8ba455",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/aerio/nrg-on-time-gas": {
+    "hash": "84a0ba7bab5edd88d306fffc96298a5ccf430d5ee9e282caa313a38cf195b3de",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/aerio/nrg-100-gas": {
+    "hash": "b498e13c60076c1420a40ff471a3b4a7a8e3ee9d8b68ff741ae487f91c8790c1",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/aerio/nrg-fixed-gas-1.0-18M": {
+    "hash": "74ff1460b8490320f40acafad693251aadb757c35c73cf01422124433588e7c4",
+    "checked_at": "2026-10-30T09:38:46+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/electricity": {
+    "hash": "80100c5d0ca60a15f5748d946a63639c6269ffd70d167e62baec478789c6a72b",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/gas": {
+    "hash": "60ad31101be52de2628a8626a8df9c22a20d833a6b618107264803c92bc9c980",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/electricity-gas": {
+    "hash": "d5dab2ba2eed7d29d9186290028d9f7d536c43d2a893f30411f4f0952bc77beb",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/electricity/nrg-special-tariff": {
+    "hash": "7edb6d88b936bfcb8386c677dc2f82bd22400dc86026eb52313f8e4a8c1b7fd9",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/gas/nrg-prime-gas": {
+    "hash": "b462ce6d0fbb7d332ef8039a83cee7be6a69842f01fcff7687a2700facf30fbd",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/gas/nrg-adapt-gas": {
+    "hash": "ee3dccf817c1b8ffa95449813cc57967321cca837ad56b852d4f346f970d9bcb",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/gas/nrg-on-time-gas": {
+    "hash": "3c3665bb8a7f60e088da622c197f486c91f3dbc1b8aa405fddebfd1dd7d36516",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/en/individuals/gas/nrg-100-gas": {
+    "hash": "c1cdf58e2bfb3729746e0f19ded32c33a1f5f5b490d6f255f1f31a494bb5eb6c",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/allSmartHomepoweredbynrg/termsandconditions": {
+    "hash": "63d56b198eb2679950a5ec03078acc1d7e6fe1fb5b679dfc6024773dcddc6976",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Όροι & Προυποθέσεις Χρήσης του SmartHome App"
+  },
+  "nrg|https://www.nrg.gr/el/Google-Home-Mini-Chalk": {
+    "hash": "10a372f0edb8c63ecdd00f65c15e2d31243b7f2daa443e063ad7dab0eb8392d6",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/Google-Home-Mini-Charcoal": {
+    "hash": "e191eb734b91f29e83e20de0e85a25e609ec09ad73442f5f167a50297573cf57",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/smarthome-kit": {
+    "hash": "e7039b01b12e95aa77bc762eb3042f226ed4211d134868928cd6642504945568",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/Smart-Camera-%CE%A5%CE%99-Home-3": {
+    "hash": "51565291736905888f7f5ad0006aca5c2d1fc7f4b60c553493329e2769a1d8c6",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/homecharger-AURORA": {
+    "hash": "57564c090b4f06b97f7951af3549c06a1ca0d50ad6d4d032e1d370c281fdf47f",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/revma": {
+    "hash": "213573f6061beefba6da044341f113191a99aeb0e539dd6d0561bf3d5d446732",
+    "checked_at": "2026-10-27T09:31:39+02:00",
+    "title": "Ηλεκτρικό ρεύμα για το σπίτι"
+  },
+  "Protergia|https://www.protergia.gr/en/home/electric-energy/protergia-home-value-sure-12m-40/": {
+    "hash": "abce7e132fdecf666c53645051bb6c07f4206a30159ee8153e46727fdc16522d",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Protergia Home Value Sure 12M 4.0"
+  },
+  "Protergia|https://www.protergia.gr/spiti/oikiako-reuma-proionta/ypologismos-rythmizomenon-xreoseon/": {
+    "hash": "014b3743836d379d2aaa7cc3c4278a556c542f76f219b76deedc1e9dcff68da1",
+    "checked_at": "2026-10-22T09:06:41+03:00",
+    "title": "Υπολογισμός ρυθμιζόμενων χρεώσεων ηλεκτρικής ενέργειας"
+  },
+  "Φυσικό Αέριο|https://fysikoaerioellados.gr/el/business/revma/maxi-night-business": {
+    "hash": "d893ed4999c640ecd5bc929902bca2dd74633b48a84429d4fd2d3cd5f739cef2",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "MAXI Night Business"
+  },
+  "Protergia|https://www.protergia.gr/en/home/electricity-natural-gas/power-plus-gas/": {
+    "hash": "d924614095dc237b0551b9b381e7aa74b3ce1e1f2f527529fd5c86458eae1ea5",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "Power + Gas"
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/revmakaiaerio": {
+    "hash": "0bbe7bb6cdc5725b556d257e99b99634a6f623c7faafc568c01a8623186b0cef",
+    "checked_at": "2026-10-28T09:37:17+02:00",
+    "title": "Ηλεκτρική Ενέργεια και Φυσικό Αέριο"
+  },
+  "nrg|https://www.nrg.gr/el/idiotes/aerio": {
+    "hash": "3b38a86b63a091793e5882d80d75d659716293db84620be079332de3b0f52d52",
+    "checked_at": "2026-10-26T09:30:03+02:00",
+    "title": "Φυσικό Αέριο για αυτόνομη ή κοινόχρηστη σύνδεση"
+  },
+  "nrg|https://www.nrg.gr/el/homecharger": {
+    "hash": "57aec0fc4a1d320b8eb4460ae49d14b96d8f44058078f8deb18d0146cff24a54",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": "IOCharger 7 Black"
+  },
+  "nrg|https://www.nrg.gr/el/homecharger-IOCAW05C": {
+    "hash": "e6b92893162dba03c40ed2848d8f774594551a488efba70b6947f1469a04f21b",
+    "checked_at": "2026-10-31T09:30:23+02:00",
+    "title": ""
+  }
+}
